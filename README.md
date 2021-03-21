@@ -15,7 +15,7 @@ SETUP GUIDE
 
 # Download and Installation
 
-Download repository extact it to your htdocs if you are using xammp
-Exequte the Query name inventorydb.sql
-Edit file processProduct.php and processCustomer for SQL Database Connection
-Goto your web browser for localhost/link and your Done
+1. Download repository extact it to your htdocs if you are using xammp
+2. Exequte the Query name inventorydb.sql
+3. Edit file processProduct.php and processCustomer for SQL Database Connection
+4. Goto your web browser for localhost/link and your Done
